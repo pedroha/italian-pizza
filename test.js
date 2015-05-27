@@ -10,3 +10,4 @@ var str = multiline(function(){/*
 */});
 
 console.log(str);
+console.log(str);
